@@ -2,3 +2,5 @@
 /res/train.txt
 /res/movie_comments.csv
 /res/movie_comments.7z
+/.ipynb_checkpoints/*
+/.idea/*
